@@ -3,6 +3,10 @@ Este é um Projecto simples de identificação de strings.
 
 Qual é o objectivo?
 
+-Classificar a string.
+
+Como faz?
+
 -Ler a string
 
 -Reconhecer a string
