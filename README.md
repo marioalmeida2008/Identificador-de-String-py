@@ -19,6 +19,12 @@ Línguagem usada?
 
 -Python.
 
+Ferramentas usadas?
+
+-Visual Code
+
+-Python
+
 O que é uma String? 
 
 -é um tipo de dado utilizado na programação para armazenar texto, como letras, números, símbolos e espaços.
