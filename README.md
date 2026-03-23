@@ -7,17 +7,17 @@ Qual é o objectivo?
 
 Como faz?
 
--Ler a string
+-Ler a string;
 
--Reconhecer a string
+-Reconhecer a string;
 
--Identificar a string
+-Identificar a string;
 
--Classificar a string
+-Classificar a string;
 
 Línguagem usada?
 
--Python
+-Python.
 
 O que é uma String? 
 
